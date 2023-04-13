@@ -23,7 +23,7 @@ spesifikasi program yang harus dibuat:
 - List data ditampilkan menggunakan card (JPanel)
 
 ## Desain Program:
-![image](https://user-images.githubusercontent.com/101335350/227204258-82dbd615-4414-4a78-9840-3daa0ba3016e.png)
+![image](https://user-images.githubusercontent.com/101335350/231672365-687e7bb8-75ad-4429-a2e6-09192076b9e5.png)
 
 ## Alur Program:
 - Masuk ke page Sign In.
